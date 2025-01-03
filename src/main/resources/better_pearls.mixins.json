@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.notishi28.better_pearls.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "better_pearls.refmap.json",
+  "mixins": [
+    "EnderPearlItemMixin",
+    "ThrownEnderpearlMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
