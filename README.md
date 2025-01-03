@@ -13,9 +13,7 @@
 ## Demo Video
 See the mod in action:  
 
-[![Better Pearls Demo](https://img.youtube.com/vi/placeholder/0.jpg)](https://cloud-r7gojfswi-hack-club-bot.vercel.app/0betterpearls.mp4 "Better Pearls Demo")  
-
-*Click the video or [here](https://cloud-r7gojfswi-hack-club-bot.vercel.app/0betterpearls.mp4) to watch!*
+<video controls src="https://cloud-r7gojfswi-hack-club-bot.vercel.app/0betterpearls.mp4" title="Title"></video>
 
 ---
 
